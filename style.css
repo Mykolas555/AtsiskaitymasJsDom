@@ -1,0 +1,32 @@
+body{
+    width: 80%;
+    margin: 0 auto 0 auto;
+    background-color: #fb7756;
+}
+
+button{
+    display: block;
+    margin:0 auto;
+    margin-top: 1rem;
+    width: 10rem;
+    background-color: #fdfa66;
+    color: #e74645;
+    border-color: #1ac0c6;
+    border-radius: 50px;
+    border-width: 0.5rem;
+    padding:5px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1rem;
+}
+
+button:hover{
+    color: #1ac0c6;
+}
+
+main{
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
